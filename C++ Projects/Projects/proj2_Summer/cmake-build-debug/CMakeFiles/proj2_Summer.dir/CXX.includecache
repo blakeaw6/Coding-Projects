@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/blake/Desktop/github/proj2_Summer/BinarySearchTree.h
+dsexceptions.h
+C:/Users/blake/Desktop/github/proj2_Summer/dsexceptions.h
+iostream
+-
+
+C:/Users/blake/Desktop/github/proj2_Summer/Word.cpp
+iostream
+-
+Word.h
+C:/Users/blake/Desktop/github/proj2_Summer/Word.h
+
+C:/Users/blake/Desktop/github/proj2_Summer/Word.h
+queue
+-
+iostream
+-
+BinarySearchTree.h
+C:/Users/blake/Desktop/github/proj2_Summer/BinarySearchTree.h
+iomanip
+-
+
+C:/Users/blake/Desktop/github/proj2_Summer/dsexceptions.h
+
